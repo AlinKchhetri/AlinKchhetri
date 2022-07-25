@@ -1,4 +1,4 @@
-Hi !My name is Alin Khatri
+Hi ! My name is Alin Khatri
 ===================================================================================================================================
 
 Front-end/React Native Developer / QA (Manual/Automation)
