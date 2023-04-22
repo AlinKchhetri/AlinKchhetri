@@ -1,11 +1,10 @@
 Hi ! My name is Alin Khatri
 ===================================================================================================================================
 
-Front-end/React Native Developer / QA (Manual/Automation)
+React Native Developer
 ---------------------------------------------------------
 
-* 🌍  I'm based in Kathmandu
-* 🖥️  See my portfolio at [Portfolio Website](http://alinkhatri.netlify.app)
+* 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [alinkhatri1111@gmail.com](mailto:alinkhatri1111@gmail.com)
 * 🚀  I'm currently working on [ParkPin (Online Parking Booking App)](https://github.com/AlinKchhetri/main-parking-app)
 * 🧠  I'm learning React Native, QA Automation (Selenium JAVA), API Testing
